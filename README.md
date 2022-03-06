@@ -1,5 +1,5 @@
 # The Papier icon theme
-![Icons](samples/together.svg)
+![Icons](artwork/banner-l.svg)
 
 _49 icons from the set. It truly screams GORGEOUS._
 
