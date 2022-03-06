@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1"
+   id="svg12"
+   sodipodi:docname="applets-screenshooter.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="32"
+     inkscape:cx="15.671875"
+     inkscape:cy="15.53125"
+     inkscape:current-layer="g986" />
+  <g
+     id="g986"
+     transform="translate(-0.7598371,5.0149252)">
+    <rect
+       style="opacity:0.2;fill:#000000;stroke-width:43.657;stroke-linecap:round;paint-order:markers fill stroke"
+       id="rect3295"
+       width="28"
+       height="20"
+       x="2.7598372"
+       y="1.4850748"
+       rx="1.5"
+       ry="1.5" />
+    <rect
+       style="fill:#546e7a;stroke-width:43.9166;stroke-linecap:round;paint-order:markers fill stroke"
+       id="rect2963"
+       width="28"
+       height="19"
+       x="2.7598372"
+       y="1.4850748"
+       rx="1.5"
+       ry="1.5178953" />
+    <path
+       style="opacity:0.1;fill:#ffffff"
+       d="m 4.1602277,1.485075 c -0.77616,0 -1.4003906,0.6192275 -1.4003906,1.3886719 v 1 c 0,-0.7694444 0.6242306,-1.3886719 1.4003906,-1.3886719 H 29.359446 c 0.7763,0 1.400391,0.6192275 1.400391,1.3886719 v -1 c 0,-0.7694444 -0.624091,-1.3886719 -1.400391,-1.3886719 z"
+       id="path34" />
+    <rect
+       style="fill:#607d8b;stroke-width:35.646;stroke-linecap:round;paint-order:markers fill stroke"
+       id="rect3523"
+       width="24"
+       height="14"
+       x="4.7598372"
+       y="3.9850748" />
+    <path
+       id="rect4117"
+       style="fill:#455a64;stroke-width:43.657;stroke-linecap:round;paint-order:markers fill stroke"
+       d="m 4.7598371,3.9850748 v 2 2 h 2 v -2 h 2 v -2 h -2 z" />
+    <path
+       id="path4562"
+       style="fill:#455a64;stroke-width:43.657;stroke-linecap:round;paint-order:markers fill stroke"
+       d="m 28.759838,3.9850748 h -2 -2 v 2 h 2 v 2 h 2 v -2 z" />
+    <path
+       id="path4564"
+       style="fill:#455a64;stroke-width:43.657;stroke-linecap:round;paint-order:markers fill stroke"
+       d="m 28.759838,17.985075 v -2 -2 h -2 v 2 h -2 v 2 h 2 z" />
+    <path
+       id="path4566"
+       style="fill:#455a64;stroke-width:43.657;stroke-linecap:round;paint-order:markers fill stroke"
+       d="m 4.7598372,17.985075 h 2 2 v -2 h -2 v -2 h -2 v 2 z" />
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1"
+   id="svg24"
+   sodipodi:docname="utilities-x-terminal.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="23.03125"
+     inkscape:cx="16"
+     inkscape:cy="15.97829"
+     inkscape:current-layer="svg24" />
+  <rect
+     ry="1.5"
+     rx="1.5"
+     y="-30"
+     x="-27.500008"
+     height="28"
+     width="24.000015"
+     id="rect4709"
+     style="display:inline;fill:#388e3c;fill-opacity:1;stroke:none;enable-background:new"
+     transform="matrix(0,-1,-1,0,0,0)" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4723"
+     d="m 2,26.000007 v 1 c 0,0.831 0.669,1.5 1.5,1.5 h 25 c 0.831,0 1.5,-0.669 1.5,-1.5 v -1 c 0,0.831 -0.669,1.5 -1.5,1.5 h -25 c -0.831,0 -1.5,-0.669 -1.5,-1.5 z"
+     style="display:inline;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;enable-background:new" />
+  <path
+     style="display:inline;opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none;enable-background:new"
+     d="m 2,6.0000074 v -1 c 0,-0.831 0.669,-1.5 1.5,-1.5 h 25 c 0.831,0 1.5,0.669 1.5,1.5 v 1 c 0,-0.831 -0.669,-1.5 -1.5,-1.5 h -25 c -0.831,0 -1.5,0.669 -1.5,1.5 z"
+     id="path4733"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4737"
+     d="m 10,12.500007 h 4 v 1 h -4 z"
+     style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#76ff03;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+     sodipodi:nodetypes="ccccc" />
+  <rect
+     style="display:inline;fill:#76ff03;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+     id="rect4741"
+     width="1"
+     height="7"
+     x="6"
+     y="6.5000072" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4743"
+     d="m 6,7.5000074 c -0.831,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669,1.4999996 1.5,1.4999996 H 6.5 7 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 H 6.5 6 4.5918 c 0.206,0.5819 0.75396,1 1.4082,1 H 6.5 7 c 0.831,0 1.5,-0.669 1.5,-1.5 0,-0.831 -0.669,-1.4999996 -1.5,-1.4999996 H 6.5 6 c -0.277,0 -0.5,-0.223 -0.5,-0.5 0,-0.277 0.223,-0.5 0.5,-0.5 H 6.5 7 8.4082 c -0.206,-0.5819 -0.75396,-1 -1.4082,-1 H 6.5 Z"
+     style="display:inline;fill:#76ff03;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+</svg>
