@@ -1,7 +1,5 @@
 # The Papier icon theme
-![Icons](artwork/banner-l.svg)
-
-_49 icons from the set. It truly screams GORGEOUS._
+![Icons](artwork/banner-w-l.svg)
 
 Paper was discontinued. It's even archived now. Everyone forgot about it and now uses Papirus.
 
