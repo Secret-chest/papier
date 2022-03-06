@@ -1,5 +1,6 @@
 # The Papier icon theme
 ![Icons](samples/together.svg)
+
 _49 icons from the set. It truly screams GORGEOUS._
 
 Paper was discontinued. It's even archived now. Everyone forgot about it and now uses Papirus.
