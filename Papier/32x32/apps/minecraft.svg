@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.0"
+   id="svg14"
+   sodipodi:docname="minecraft.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="23.03125"
+     inkscape:cx="16.043419"
+     inkscape:cy="16.02171"
+     inkscape:current-layer="g936" />
+  <g
+     id="g936"
+     transform="translate(-2.757123,-0.15197)">
+    <rect
+       style="opacity:0.2"
+       width="28"
+       height="28"
+       x="4.757123"
+       y="2.6519699"
+       rx="1.5"
+       ry="1.5"
+       id="rect2" />
+    <rect
+       style="opacity:1;fill:#795548;stroke-width:0.755906;stroke-linecap:round;paint-order:markers fill stroke"
+       id="rect1710"
+       width="28"
+       height="28"
+       x="4.757123"
+       y="1.65197"
+       rx="1.5"
+       ry="1.5" />
+    <path
+       id="rect1284"
+       style="opacity:1;fill:#43a047;stroke-width:0.755906;stroke-linecap:round;paint-order:markers fill stroke"
+       d="m 6.257123,1.65197 h 25 c 0.831,0 1.5,0.669 1.5,1.5 0.04288,2.254982 0,5.5 0,5.5 h -28 v -5.5 c 0,-0.831 0.669,-1.5 1.5,-1.5 z"
+       sodipodi:nodetypes="ssccccs" />
+    <path
+       fill="#ffffff"
+       opacity="0.2"
+       d="m 6.257123,1.65197 c -0.831,0 -1.5,0.669 -1.5,1.5 v 1 c 0,-0.831 0.669,-1.5 1.5,-1.5 h 25 c 0.831,0 1.5,0.669 1.5,1.5 v -1 c 0,-0.831 -0.669,-1.5 -1.5,-1.5 z"
+       id="path12" />
+  </g>
+</svg>

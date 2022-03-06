@@ -22,7 +22,7 @@
      inkscape:pagecheckerboard="1"
      showgrid="false"
      inkscape:zoom="23.03125"
-     inkscape:cx="16"
+     inkscape:cx="16.043419"
      inkscape:cy="15.97829"
      inkscape:current-layer="svg20" />
   <rect
@@ -31,8 +31,8 @@
      height="8"
      x="6"
      y="7"
-     rx="2"
-     ry="2"
+     rx="4"
+     ry="4"
      id="rect6" />
   <rect
      style="fill:#8bc34a"
@@ -40,8 +40,8 @@
      height="8"
      x="6"
      y="6"
-     rx="2"
-     ry="2"
+     rx="4"
+     ry="4"
      id="rect8" />
   <rect
      style="opacity:0.2"
@@ -49,8 +49,8 @@
      height="8"
      x="18"
      y="19"
-     rx="2"
-     ry="2"
+     rx="4"
+     ry="4"
      id="rect14" />
   <rect
      style="fill:#9c27b0"
@@ -58,8 +58,8 @@
      height="8"
      x="18"
      y="18"
-     rx="2"
-     ry="2"
+     rx="4"
+     ry="4"
      id="rect16" />
   <rect
      style="opacity:0.2"
@@ -67,8 +67,8 @@
      height="8"
      x="18"
      y="7"
-     rx="2"
-     ry="2"
+     rx="4"
+     ry="4"
      id="rect1241" />
   <rect
      style="fill:#ffeb3b"
@@ -76,8 +76,8 @@
      height="8"
      x="18"
      y="6"
-     rx="2"
-     ry="2"
+     rx="4"
+     ry="4"
      id="rect1243" />
   <rect
      style="opacity:0.2"
@@ -85,8 +85,8 @@
      height="8"
      x="6"
      y="19"
-     rx="2"
-     ry="2"
+     rx="4"
+     ry="4"
      id="rect1245" />
   <rect
      style="fill:#009688"
@@ -94,7 +94,7 @@
      height="8"
      x="6"
      y="18"
-     rx="2"
-     ry="2"
+     rx="4"
+     ry="4"
      id="rect1247" />
 </svg>
