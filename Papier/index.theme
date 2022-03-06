@@ -3,7 +3,7 @@ Name=Papier
 Comment=A fork of Papirus with a touch of Paper's style
 Inherits=breeze,hicolor
 
-Example=folder
+Example=text-x-generic
 
 FollowsColorScheme=true
 
