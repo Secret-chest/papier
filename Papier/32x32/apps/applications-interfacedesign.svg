@@ -1,19 +1,166 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <path style="opacity:0.2" d="M 2,7 V 27.611111 C 2,28.381111 2.623875,29 3.4,29 H 28.6007 C 29.3763,29 30,28.38125 30,27.611111 V 7 Z"/>
- <rect style="opacity:0.2" width="22.4" height="2.8" x="4.8" y="20.55" rx="1.066" ry="1.161"/>
- <path style="fill:#c7c7c7" d="M 2,6 V 26.611111 C 2,27.381111 2.623875,28 3.4,28 H 28.6007 C 29.3763,28 30,27.38125 30,26.611111 V 6 Z"/>
- <path style="fill:#5a6367" d="m 3.4,3.0000001 c -0.77616,0 -1.4,0.6190972 -1.4,1.3885416 V 6 H 30 V 4.3885417 C 30,3.6190973 29.3763,3.0000001 28.6,3.0000001 Z"/>
- <rect style="opacity:0.2" width="22" height="3" x="5" y="21" rx="1.047" ry="1.244"/>
- <rect style="fill:#ffffff" width="22" height="3" x="5" y="20" rx="1.047" ry="1.244"/>
- <path style="opacity:0.1;fill-rule:evenodd" d="M 24,22.5 C 24,24.431998 22.431998,26 20.5,26 18.568,26 17,24.431998 17,22.5 17,20.568 18.568,19 20.5,19 c 1.931998,0 3.5,1.568 3.5,3.5 z"/>
- <path style="fill:#5294e2;fill-rule:evenodd" d="M 24,21.5 C 24,23.431998 22.431998,25 20.5,25 18.568,25 17,23.431998 17,21.5 17,19.568 18.568,18 20.5,18 c 1.931998,0 3.5,1.568 3.5,3.5 z"/>
- <circle style="opacity:0.2" cx="6.5" cy="11.5" r="1.5"/>
- <circle style="fill:#fffff7" cx="6.5" cy="10.5" r="1.5"/>
- <rect style="opacity:0.1" width="3" height="3" x="11" y="15" rx=".472" ry=".516"/>
- <rect style="fill:#5294e2" width="3" height="3" x="11" y="14" rx=".472" ry=".516"/>
- <circle style="opacity:0.1" cx="6.5" cy="16.5" r="1.5"/>
- <circle style="fill:#5294e2" cx="6.5" cy="15.5" r="1.5"/>
- <rect style="opacity:0.2" width="3" height="3" x="11" y="10" rx=".472" ry=".516"/>
- <rect style="fill:#ffffff" width="3" height="3" x="11" y="9" rx=".472" ry=".516"/>
- <path style="fill:#ffffff;opacity:0.1" d="M 3.4003906 3 C 2.6242306 3 2 3.6192275 2 4.3886719 L 2 5.3886719 C 2 4.6192275 2.6242306 4 3.4003906 4 L 28.599609 4 C 29.375909 4 30 4.6192275 30 5.3886719 L 30 4.3886719 C 30 3.6192275 29.375909 3 28.599609 3 L 3.4003906 3 z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1"
+   id="svg36"
+   sodipodi:docname="applications-interfacedesign.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs40" />
+  <sodipodi:namedview
+     id="namedview38"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="23.03125"
+     inkscape:cx="16.02171"
+     inkscape:cy="15.97829"
+     inkscape:current-layer="svg36" />
+  <path
+     style="opacity:0.2"
+     d="M 2,7 V 27.611111 C 2,28.381111 2.623875,29 3.4,29 H 28.6007 C 29.3763,29 30,28.38125 30,27.611111 V 7 Z"
+     id="path2" />
+  <rect
+     style="opacity:0.2"
+     width="22.4"
+     height="2.8"
+     x="4.8"
+     y="20.55"
+     rx="1.066"
+     ry="1.161"
+     id="rect4" />
+  <path
+     style="fill:#eceff1"
+     d="M 2,6 V 26.611111 C 2,27.381111 2.623875,28 3.4,28 H 28.6007 C 29.3763,28 30,27.38125 30,26.611111 V 6 Z"
+     id="path6" />
+  <path
+     style="fill:#546e7a"
+     d="m 3.4,3.0000001 c -0.77616,0 -1.4,0.6190972 -1.4,1.3885416 V 6 H 30 V 4.3885417 C 30,3.6190973 29.3763,3.0000001 28.6,3.0000001 Z"
+     id="path8" />
+  <rect
+     style="opacity:0.2"
+     width="22"
+     height="2"
+     x="5"
+     y="23"
+     rx="1"
+     ry="1"
+     id="rect10" />
+  <rect
+     style="fill:#4caf50"
+     width="13"
+     height="2"
+     x="5"
+     y="22"
+     rx="1"
+     ry="1"
+     id="rect12" />
+  <rect
+     style="fill:#607d8b"
+     width="8"
+     height="2"
+     x="19"
+     y="22"
+     rx="1"
+     ry="1"
+     id="rect1116" />
+  <path
+     style="opacity:0.1;fill-rule:evenodd;stroke-width:0.714285"
+     d="M 21,23.5 C 21,24.879999 19.879999,26 18.5,26 17.12,26 16,24.879999 16,23.5 16,22.12 17.12,21 18.5,21 c 1.379999,0 2.5,1.12 2.5,2.5 z"
+     id="path14" />
+  <path
+     style="fill:#4caf50;fill-rule:evenodd;stroke-width:0.714286"
+     d="M 21,22.5 C 21,23.879999 19.879999,25 18.5,25 17.12,25 16,23.879999 16,22.5 16,21.12 17.12,20 18.5,20 c 1.379999,0 2.5,1.12 2.5,2.5 z"
+     id="path16" />
+  <circle
+     style="opacity:0.2"
+     cx="6.5"
+     cy="11.5"
+     r="1.5"
+     id="circle18" />
+  <circle
+     style="fill:#4caf50"
+     cx="6.5"
+     cy="10.5"
+     r="1.5"
+     id="circle20" />
+  <rect
+     style="opacity:0.1"
+     width="3"
+     height="3"
+     x="11"
+     y="16"
+     rx="0.5"
+     ry="0.5"
+     id="rect22" />
+  <rect
+     style="fill:#4caf50"
+     width="3"
+     height="3"
+     x="11"
+     y="15"
+     rx="0.5"
+     ry="0.5"
+     id="rect24" />
+  <circle
+     style="opacity:0.1"
+     cx="6.5"
+     cy="17.5"
+     r="1.5"
+     id="circle26" />
+  <circle
+     style="fill:#ffffff"
+     cx="6.5"
+     cy="16.5"
+     r="1.5"
+     id="circle28" />
+  <rect
+     style="opacity:0.2;fill:#000000;fill-opacity:1"
+     width="3"
+     height="3"
+     x="11"
+     y="10"
+     rx="0.5"
+     ry="0.5"
+     id="rect30" />
+  <rect
+     style="fill:#ffffff"
+     width="3"
+     height="3"
+     x="11"
+     y="9"
+     rx="0.5"
+     ry="0.5"
+     id="rect32" />
+  <path
+     style="fill:#ffffff;opacity:0.1"
+     d="M 3.4003906 3 C 2.6242306 3 2 3.6192275 2 4.3886719 L 2 5.3886719 C 2 4.6192275 2.6242306 4 3.4003906 4 L 28.599609 4 C 29.375909 4 30 4.6192275 30 5.3886719 L 30 4.3886719 C 30 3.6192275 29.375909 3 28.599609 3 L 3.4003906 3 z"
+     id="path34" />
+  <rect
+     style="fill:#000000;fill-opacity:0.2"
+     width="11"
+     height="5"
+     x="16"
+     y="12"
+     rx="1.5"
+     ry="1.5"
+     id="rect2050" />
+  <rect
+     style="fill:#4caf50"
+     width="11"
+     height="5"
+     x="16"
+     y="11"
+     rx="1.5"
+     ry="1.5"
+     id="rect1844" />
 </svg>
