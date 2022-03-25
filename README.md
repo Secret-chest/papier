@@ -6,3 +6,7 @@
 Until now.
 
 This is an icon theme based on [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme), but with many Paper icons. Look at the image, a picture is worth a thousand words.
+
+## Credits
+
+* [Paper Icon Theme](https://github.com/snwh/paper-icon-theme) for some icons
