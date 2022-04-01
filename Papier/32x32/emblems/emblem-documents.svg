@@ -1,6 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <circle style="fill:#455a64" cx="16" cy="16" r="14"/>
- <path style="fill:#ffffff" d="m 10,9 h 12 v 3 H 10 Z"/>
- <path style="fill:#ffffff" d="m 10,15 h 12 v 3 H 10 Z"/>
- <path style="fill:#ffffff" d="m 10,21 h 12 v 3 H 10 Z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1"
+   id="svg10"
+   sodipodi:docname="emblem-documents.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="23.03125"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:current-layer="svg10" />
+  <circle
+     style="fill:#26a69a"
+     cx="16"
+     cy="16"
+     r="14"
+     id="circle2" />
+  <g
+     id="g834"
+     transform="translate(0,-0.5)">
+    <path
+       style="fill:#ffffff"
+       d="m 10,9 h 12 v 3 H 10 Z"
+       id="path4" />
+    <path
+       style="fill:#ffffff"
+       d="m 10,15 h 12 v 3 H 10 Z"
+       id="path6" />
+    <path
+       style="fill:#ffffff"
+       d="m 10,21 h 12 v 3 H 10 Z"
+       id="path8" />
+  </g>
 </svg>

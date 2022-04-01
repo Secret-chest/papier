@@ -1,4 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <circle style="fill:#455a64" cx="16" cy="16" r="14"/>
- <path style="fill:#ffffff" d="M 15.699781,6 C 12.495281,6 9.899,8.7955 9.899,12 h 2.90039 c 0,-1.595 1.305391,-3.099609 2.900391,-3.099609 1.595,0 2.900391,1.30539 2.900391,2.90039 0,0.7975 -0.318969,1.520969 -0.855469,2.042969 l -1.798828,1.828125 c -1.044,1.0585 -1.695313,2.508516 -1.695313,4.103516 V 20 h 2.919922 c 0.09713,-1.807411 0.717891,-2.632321 1.675781,-3.603516 L 20.150953,15.0625 c 0.8265,-0.8265 1.349609,-1.985719 1.349609,-3.261719 C 21.500562,8.596281 18.904281,6 15.699781,6 Z m -1.5,17 v 3 h 3 v -3 z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1"
+   id="svg6"
+   sodipodi:docname="emblem-question.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="23.03125"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:current-layer="svg6" />
+  <circle
+     style="fill:#673ab7"
+     cx="16"
+     cy="16"
+     r="14"
+     id="circle2" />
+  <path
+     style="fill:#ffffff"
+     d="M 15.699781,6 C 12.495281,6 9.899,8.7955 9.899,12 h 2.90039 c 0,-1.595 1.305391,-3.099609 2.900391,-3.099609 1.595,0 2.900391,1.30539 2.900391,2.90039 0,0.7975 -0.318969,1.520969 -0.855469,2.042969 l -1.798828,1.828125 c -1.044,1.0585 -1.695313,2.508516 -1.695313,4.103516 V 20 h 2.919922 c 0.09713,-1.807411 0.717891,-2.632321 1.675781,-3.603516 L 20.150953,15.0625 c 0.8265,-0.8265 1.349609,-1.985719 1.349609,-3.261719 C 21.500562,8.596281 18.904281,6 15.699781,6 Z m -1.5,17 v 3 h 3 v -3 z"
+     id="path4" />
 </svg>
