@@ -1,4 +1,4 @@
-#### NOTE: Papier isn't abandoned, it's just that I see nothing to add. Feel free to post an issue if you wish I add something.
+#### A new icon theme will be coming. <https://roundabout-host.com>
 # The Papier icon theme
 ![Icons](artwork/banner-w-l.svg)
 
